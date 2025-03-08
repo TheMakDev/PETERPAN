@@ -31,7 +31,7 @@ const Project = () => {
       <div className="project_top">
         <h1 className="title">Our <span className="g-text">Project</span></h1>
         <h3 className="sub_title">
-        Innovative construction projects, exceptional craftsmanship.
+        Innovative Solutions projects, exceptional craftsmanship.
         </h3>
       </div>
       <Slider {...settings} className='projects_container'>
