@@ -9,6 +9,7 @@ import Contact from './Component/Contact/Contact'
 import Footer from './Component/Footer/Footer'
 import Team from './Component/Team/Team'
 import Blog from './Component/Blog/Blog'
+import Product from './Component/Product/Product'
 const App = () => {
   return (
     <>
@@ -18,6 +19,7 @@ const App = () => {
     <Services />
     <Team />
     <Project />
+    <Product/>
     <Testimonial />
     <Blog />
     <Contact />

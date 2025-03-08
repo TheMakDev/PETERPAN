@@ -16,11 +16,17 @@ export const navTabs = [
     {name:"Services",id:'services'},
     {name:"Team",id:'team'},
     {name:"Portfolio",id:'portfolio'},
+    {name:"Product",id:'product'},
     {name:"Testimonial",id:'testimonial'},
     {name:"Blog",id:'blog'},
 ];
 
 export const services = [
+  {
+    name:"Artificial Intelligence, Machine Learning and Data Science",
+    icon:<AiOutlineFileProtect/>,
+    description:`Leveraging on the power of data for building bespoke automated solutions for businesses.`,
+  },
   {
     name:"Servers, Networks & Cyber Security",
     icon:<SiBlueprint/>,
@@ -34,19 +40,14 @@ export const services = [
     `,
   },
   {
-    name:"Content Writing & Digital Marketing",
+    name:"Cloud Computing Services:",
     icon:<GrUserManager/>,
-    description:`We offer comprehensive content writing and digital marketing services, including strategy development, content creation, and campaign management to ensure brand growth, audience engagement, and optimal online visibility.`,
+    description:`Microsoft Azure, Microsoft 365, Google Cloud Services and Amazon Web Services. Deployment, migration and configuration services`,
   },
   {
     name:"UI/UX Design & Frontend Development",
     icon:<SiHomeassistantcommunitystore/>,
     description:`This service integrates user interface design, user experience optimization, and frontend development into a seamless process, ensuring visually appealing, responsive, and user-friendly digital experiences while maintaining efficient collaboration between designers and developers.`,
-  },
-  {
-    name:"Databases & Data Science",
-    icon:<AiOutlineFileProtect/>,
-    description:`This service integrates database management, data analytics, and machine learning into a seamless process, ensuring efficient data storage, processing, and security while enabling informed decision-making and strategic insights.`,
   },
   {
     name:"System Upgrades & Optimization",
@@ -58,7 +59,7 @@ export const services = [
 export const teams = [
   {
     name:"Peter Opeyemi James",
-    title:"CEO/PROJECT MANAGER",
+    title:"Founder",
     profile:member1,
     social:[
       {name:"Facebook",icon:<CiFacebook/>,url:"http://facebook.com"},
@@ -77,19 +78,7 @@ export const teams = [
       {name:"Youtube",icon:<FaYoutube/>,url:"https://www.youtube.com"},
       {name:"Instagram",icon:<FaInstagram/>,url:"http://instagram.com"},
     ]
-  },
-  {
-    name:"Belema Obunge",
-    title:"Chief Information Officer",
-    profile:member3,
-    social:[
-      {name:"Facebook",icon:<CiFacebook/>,url:"http://facebook.com"},
-      {name:"LinkedIn",icon:<CiLinkedin/>,url:"http://linkedin.com"},
-      {name:"Youtube",icon:<FaYoutube/>,url:"https://www.youtube.com"},
-      {name:"Instagram",icon:<FaInstagram/>,url:"http://instagram.com"},
-    ]
-  },
-  {
+  },{
     name:"James Samuel Enitan",
     title:"Web Developer",
     profile:member4,

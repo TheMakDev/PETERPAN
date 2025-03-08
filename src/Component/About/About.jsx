@@ -28,7 +28,7 @@ const About = () => {
             </div>
           </div>
           <p className="text-muted description">
-          PeterPan IT Solutions provides top-notch ICT services, including cybersecurity, software, database management, web and cloud solutions, and network administration. We help businesses, from small to mid-sized institutions, set up and manage efficient IT structures. Our client-focused approach ensures seamless partnerships, cost-effective solutions, and proactive recommendations. We prioritize long-term relationships through after-sales services and service level agreements. Our goal is to optimize technology for efficiency and business growth.
+          PeterPan IT Solutions thrives to be one of the leaders in the future of technology in sub-Saharan Africa. Using Aritificial Intellignce, we are determined to building intelligent, cutting-edge, market-ready, and responsible applications by leveraging on Azure AI where there are out-of-the-box and prebuilt and customizable APIs and models. Additionaly, we continue to deliver top notch traditional IT services (onprem and in the cloud) such as cybersecurity, softwared developoment, database management, web and cloud solutions, and network administration. We help businesses, from small to mid-sized institutions, set up and manage efficient IT structures. Our client-focused approach ensures seamless partnerships, cost-effective solutions, and proactive recommendations. We prioritize long-term relationships through after-sales services and service level agreements. Our goal is to optimize technology for efficiency and business growth.
           </p>
           <div className="group">
 
