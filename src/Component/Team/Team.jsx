@@ -6,8 +6,8 @@ const Team = () => {
   return (
     <section id='team'>
       <div className="container">
-        <h1 className="title">Our <span className="g-text">Teams</span></h1>
-        <h3 className="sub_title">Meet my diverse team of creative minds, developers, and strategists – the driving force behind every project's success.</h3>
+        <h1 className="title">Our <span className="g-text">Team</span></h1>
+        <h3 className="sub_title">We are always guided by creativity, honesty and proactiveness.</h3>
         <div className="teams_container">
           {
             teams.map((team, index) =>(

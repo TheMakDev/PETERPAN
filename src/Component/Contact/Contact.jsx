@@ -12,7 +12,7 @@ const Contact = () => {
               <span className='g-text'>Join forces with us</span>
             </h1>
             <p className="text_muted">
-            We build with precision and passion, creating structures that stand the test of time. It's as straightforward as that!
+            We build with precision and passion, creating systems that stand the test of time. It's as straightforward as that!
             </p>
           </div>
           <div className="contact_form_middle">
