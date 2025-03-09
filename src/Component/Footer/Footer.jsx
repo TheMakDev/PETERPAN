@@ -39,7 +39,7 @@ const Footer = () => {
       </div>
       <div className="copyright">
         <div className="container">
-          <h3>Copyright &copy; All rihgt Resserved || 2025</h3>
+          <h3>Copyright &copy; All Rights Reserved | 2025</h3>
           <p className='text_muted'>PeterPan IT Solutions</p>
         </div>
       </div>
